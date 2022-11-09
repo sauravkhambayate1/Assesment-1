@@ -1,0 +1,76 @@
+.main-div{
+   margin: 0px;
+   padding: 0px;
+}
+.header{
+    /* display: inline-block; */
+}
+
+.platina{
+    font-weight: bolder;
+    font-size: 25px;
+    float: left;
+    margin: 100px;
+
+}
+.nav-bar{
+    margin: 80px;
+    /* padding: 100px; */
+    float: right;
+   text-align: left;
+
+}
+
+.nav-item{
+    display: inline-block;
+    margin: 30px;
+}
+h3{
+    text-align: center;
+}
+.book-room{
+    font-size: 30px;
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 200px;
+    margin-left: 20px;
+    background-image: linear-gradient( grey, white);
+
+}
+
+.para{
+    text-align: center;
+}
+
+.form{
+    margin: auto;
+}
+
+.input{
+    margin: 25px;
+}
+#textarea{
+    /* margin-left: 700px; */
+    /* float: right; */
+    height: 250px;
+    width: 300px;
+    margin-left: 700px;
+    position: relative; bottom: 220px;
+    
+}
+.table{
+    margin-left: 100px;
+}
+.button{
+    border-radius: 100px;
+    border: none;
+    width: 150px;
+    height: 40px;
+    background-color: #F14D13 ;
+    color: white;
+    font-weight: bolder;
+
+}
+.text{
+    margin-left: 50px;
+}
